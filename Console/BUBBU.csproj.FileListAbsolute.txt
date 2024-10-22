@@ -1,7 +1,0 @@
-D:\215\Карпенок Прохор\BUBBU\BUBBU\bin\Debug\BUBBU.exe.config
-D:\215\Карпенок Прохор\BUBBU\BUBBU\bin\Debug\BUBBU.exe
-D:\215\Карпенок Прохор\BUBBU\BUBBU\bin\Debug\BUBBU.pdb
-D:\215\Карпенок Прохор\BUBBU\BUBBU\obj\Debug\BUBBU.csproj.AssemblyReference.cache
-D:\215\Карпенок Прохор\BUBBU\BUBBU\obj\Debug\BUBBU.csproj.CoreCompileInputs.cache
-D:\215\Карпенок Прохор\BUBBU\BUBBU\obj\Debug\BUBBU.exe
-D:\215\Карпенок Прохор\BUBBU\BUBBU\obj\Debug\BUBBU.pdb
