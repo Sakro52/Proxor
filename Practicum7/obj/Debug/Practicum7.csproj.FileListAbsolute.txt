@@ -1,0 +1,7 @@
+D:\Practicum7\bin\Debug\Practicum7.exe.config
+D:\Practicum7\bin\Debug\Practicum7.exe
+D:\Practicum7\bin\Debug\Practicum7.pdb
+D:\Practicum7\obj\Debug\Practicum7.csproj.AssemblyReference.cache
+D:\Practicum7\obj\Debug\Practicum7.csproj.CoreCompileInputs.cache
+D:\Practicum7\obj\Debug\Practicum7.exe
+D:\Practicum7\obj\Debug\Practicum7.pdb
