@@ -1,0 +1,7 @@
+C:\Users\Kab-35-16\Desktop\Practicum11\obj\Debug\Practicum11.csproj.AssemblyReference.cache
+C:\Users\Kab-35-16\Desktop\Practicum11\obj\Debug\Practicum11.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-16\Desktop\Practicum11\bin\Debug\Practicum11.exe.config
+C:\Users\Kab-35-16\Desktop\Practicum11\bin\Debug\Practicum11.exe
+C:\Users\Kab-35-16\Desktop\Practicum11\bin\Debug\Practicum11.pdb
+C:\Users\Kab-35-16\Desktop\Practicum11\obj\Debug\Practicum11.exe
+C:\Users\Kab-35-16\Desktop\Practicum11\obj\Debug\Practicum11.pdb

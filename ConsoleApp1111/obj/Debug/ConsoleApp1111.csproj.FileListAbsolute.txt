@@ -1,0 +1,6 @@
+C:\Users\Kab-35-16\Desktop\ConsoleApp1111\bin\Debug\ConsoleApp1111.exe.config
+C:\Users\Kab-35-16\Desktop\ConsoleApp1111\bin\Debug\ConsoleApp1111.exe
+C:\Users\Kab-35-16\Desktop\ConsoleApp1111\bin\Debug\ConsoleApp1111.pdb
+C:\Users\Kab-35-16\Desktop\ConsoleApp1111\obj\Debug\ConsoleApp1111.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-16\Desktop\ConsoleApp1111\obj\Debug\ConsoleApp1111.exe
+C:\Users\Kab-35-16\Desktop\ConsoleApp1111\obj\Debug\ConsoleApp1111.pdb
