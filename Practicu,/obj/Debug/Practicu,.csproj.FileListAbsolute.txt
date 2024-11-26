@@ -1,7 +1,0 @@
-C:\Users\Kab-31-16\Desktop\Practicu,\bin\Debug\Practicu,.exe.config
-C:\Users\Kab-31-16\Desktop\Practicu,\bin\Debug\Practicu,.exe
-C:\Users\Kab-31-16\Desktop\Practicu,\bin\Debug\Practicu,.pdb
-C:\Users\Kab-31-16\Desktop\Practicu,\obj\Debug\Practicu,.csproj.AssemblyReference.cache
-C:\Users\Kab-31-16\Desktop\Practicu,\obj\Debug\Practicu,.csproj.CoreCompileInputs.cache
-C:\Users\Kab-31-16\Desktop\Practicu,\obj\Debug\Practicu,.exe
-C:\Users\Kab-31-16\Desktop\Practicu,\obj\Debug\Practicu,.pdb
