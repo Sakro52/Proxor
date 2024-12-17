@@ -6,35 +6,57 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-
-    internal class Program
+    class Program
     {
-        /// <summary>
-        /// 
-        /// </summary>
-        /// <param name="args"></param>
-        /// Задача 2. Найти минимальную величину их трех целых переменных a, b, c с использованием вспомогательных методов 
-        /// (ввода аргументов, нахождения минимальной величины, вывода результата).
-        public static int Min(int a, int b, int c)
+        // определите текущее количество элементов коллекции;
+        static void El(int a)
         {
-            return a < b ? (a < b ? a : c):(b < c ? b : c);
+            Console.WriteLine(a);
+         }
+            // преобразуйте все буквы элементов в прописные;
+            static void Caps(List<string> list)
+        {
+            foreach (var el in list)
+            {
+                Console.WriteLine(el.ToUpper());
+            }
+            Console.WriteLine();
         }
-            public static int Input(string message)
+        
+        static void Output(List<string> list)
+        {
+            foreach (var el in list)
             {
-                Console.Write(message);
-                return int.Parse(Console.ReadLine());
+                Console.WriteLine(el);
             }
-            public static void Output(int result)
-            { Console.WriteLine(result); }
+            Console.WriteLine();
+        }
             static void Main(string[] args)
-            {
-                int a = Input("a=");
-                int b = Input("b=");
-                int c = Input("c=");
-                int result = Min(a, b, c);
-                Output(result);
-                Console.ReadLine();
-            }
+        {
+
+            List<string> list = new List<string>(){ "Бугати", "БМВ", "Мерседес", "Лотус", "Тоёта", "Лада" };
+            // добавьте в список элементы строчными буквами; 
+            // выведите содержимое коллекции на экран;
+            list.Add("шевроле");
+            Output(list);
+            // определите текущее количество элементов коллекции;
+            // выведите содержимое коллекции на экран;
+            Caps(list);
+            El(list.Count);
+            // добавьте в коллекцию новый элемент в конец списка соответствующего варианта;
+            list.Add("Ферари");
+            Output(list);
+            // добавьте в коллекцию новый элемент в начале списка соответствующего варианта;
+            // выведите содержимое коллекции на экран;
+            list.Insert(0,"Порш");
+            Output(list);
+            // удалите третий элемент коллекции; выведите содержимое коллекции на экран;
+            list.RemoveAt(3);
+            Output(list);
+            // расположите элементы в обратном порядке
+            list.Reverse();
+            Output(list);
+            Console.ReadKey();
         }
     }
-  
+}
