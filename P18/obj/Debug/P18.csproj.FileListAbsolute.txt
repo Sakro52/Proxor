@@ -1,0 +1,7 @@
+C:\Users\Андрей Черкатила\source\repos\P18\bin\Debug\P18.exe.config
+C:\Users\Андрей Черкатила\source\repos\P18\bin\Debug\P18.exe
+C:\Users\Андрей Черкатила\source\repos\P18\bin\Debug\P18.pdb
+C:\Users\Андрей Черкатила\source\repos\P18\obj\Debug\P18.csproj.AssemblyReference.cache
+C:\Users\Андрей Черкатила\source\repos\P18\obj\Debug\P18.csproj.CoreCompileInputs.cache
+C:\Users\Андрей Черкатила\source\repos\P18\obj\Debug\P18.exe
+C:\Users\Андрей Черкатила\source\repos\P18\obj\Debug\P18.pdb
