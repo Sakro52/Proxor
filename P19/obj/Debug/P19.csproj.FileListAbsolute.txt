@@ -1,0 +1,7 @@
+C:\Users\Андрей Черкатила\Desktop\P19\bin\Debug\P19.exe.config
+C:\Users\Андрей Черкатила\Desktop\P19\bin\Debug\P19.exe
+C:\Users\Андрей Черкатила\Desktop\P19\bin\Debug\P19.pdb
+C:\Users\Андрей Черкатила\Desktop\P19\obj\Debug\P19.csproj.AssemblyReference.cache
+C:\Users\Андрей Черкатила\Desktop\P19\obj\Debug\P19.csproj.CoreCompileInputs.cache
+C:\Users\Андрей Черкатила\Desktop\P19\obj\Debug\P19.exe
+C:\Users\Андрей Черкатила\Desktop\P19\obj\Debug\P19.pdb
