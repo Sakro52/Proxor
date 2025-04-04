@@ -1,0 +1,7 @@
+C:\Users\Kab-31-14\Desktop\prac32\bin\Debug\prac32.exe.config
+C:\Users\Kab-31-14\Desktop\prac32\bin\Debug\prac32.exe
+C:\Users\Kab-31-14\Desktop\prac32\bin\Debug\prac32.pdb
+C:\Users\Kab-31-14\Desktop\prac32\obj\Debug\prac32.csproj.AssemblyReference.cache
+C:\Users\Kab-31-14\Desktop\prac32\obj\Debug\prac32.csproj.CoreCompileInputs.cache
+C:\Users\Kab-31-14\Desktop\prac32\obj\Debug\prac32.exe
+C:\Users\Kab-31-14\Desktop\prac32\obj\Debug\prac32.pdb
