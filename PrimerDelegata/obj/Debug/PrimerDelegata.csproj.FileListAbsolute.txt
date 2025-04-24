@@ -1,0 +1,7 @@
+C:\Users\Kab-31-14\Desktop\PrimerDelegata\bin\Debug\PrimerDelegata.exe.config
+C:\Users\Kab-31-14\Desktop\PrimerDelegata\bin\Debug\PrimerDelegata.exe
+C:\Users\Kab-31-14\Desktop\PrimerDelegata\bin\Debug\PrimerDelegata.pdb
+C:\Users\Kab-31-14\Desktop\PrimerDelegata\obj\Debug\PrimerDelegata.csproj.AssemblyReference.cache
+C:\Users\Kab-31-14\Desktop\PrimerDelegata\obj\Debug\PrimerDelegata.csproj.CoreCompileInputs.cache
+C:\Users\Kab-31-14\Desktop\PrimerDelegata\obj\Debug\PrimerDelegata.exe
+C:\Users\Kab-31-14\Desktop\PrimerDelegata\obj\Debug\PrimerDelegata.pdb
