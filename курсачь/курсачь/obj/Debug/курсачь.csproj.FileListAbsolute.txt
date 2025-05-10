@@ -1,7 +1,0 @@
-C:\Users\kab-35-17\Desktop\курсачь\курсачь\obj\Debug\курсачь.csproj.AssemblyReference.cache
-C:\Users\kab-35-17\Desktop\курсачь\курсачь\obj\Debug\курсачь.csproj.CoreCompileInputs.cache
-C:\Users\kab-35-17\Desktop\курсачь\курсачь\bin\Debug\курсачь.exe.config
-C:\Users\kab-35-17\Desktop\курсачь\курсачь\bin\Debug\курсачь.exe
-C:\Users\kab-35-17\Desktop\курсачь\курсачь\bin\Debug\курсачь.pdb
-C:\Users\kab-35-17\Desktop\курсачь\курсачь\obj\Debug\курсачь.exe
-C:\Users\kab-35-17\Desktop\курсачь\курсачь\obj\Debug\курсачь.pdb
